@@ -111,7 +111,7 @@ function verificaColisaoRaquete(x,y) {
   yRaqueteOponente += velocidadeYOponente;
    
    //multiplayer if(keyIsDown (87)){
-    yRaqueteOponente -= 10;
+    //yRaqueteOponente -= 10;
   //}
   //if(keyIsDown (83)){
     //yRaqueteOponente += 10;
